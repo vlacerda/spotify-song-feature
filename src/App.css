@@ -1,0 +1,11 @@
+.App{
+  padding: 15px;
+}
+
+.App button{
+  color: white;
+  padding: 5px;
+  background: green;
+  border: 1px solid rgb(2, 87, 2);
+  border-radius: 2px;
+}

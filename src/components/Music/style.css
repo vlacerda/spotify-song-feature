@@ -1,0 +1,21 @@
+.music__item{
+  background: #EEE;
+  padding: 10px;
+  overflow: hidden;
+  border-bottom: 1px solid #CCC;
+}
+
+.music__item__image{
+  float: left;
+  margin-right: 10px;
+  width: 50px;
+}
+
+.music__item__name{
+  padding: 0 0 10px;
+  margin: 0;
+}
+
+.music__item__album{
+
+}

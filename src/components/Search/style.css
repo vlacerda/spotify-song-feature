@@ -1,0 +1,16 @@
+.search__form{
+  padding: 15px;
+  border: 1px solid #EEE;
+}
+
+.search__form{
+  font: Helvetica, Arial, sans-serif;
+}
+
+.search__form input{
+  margin-left: 10px;
+}
+
+.search__form button{
+  margin-left: 10px;
+}
